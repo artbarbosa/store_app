@@ -83,7 +83,7 @@ class AppBarComponent extends StatelessWidget {
               ),
             ),
             Text(
-              'Zemmedy',
+              'StoreZ',
               style: TextStyle(
                   color: Colors.black,
                   fontFamily: 'Vectory',
